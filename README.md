@@ -3,3 +3,4 @@ Exercises extracted from the [Ruby Course](https://www.theodinproject.com/paths/
 ## Basic Exercises
 - [Ceasar Cipher](ceasar_cipher/)
 - [Substrings](substrings/)
+- [Stock Piper](stock_piper/)
