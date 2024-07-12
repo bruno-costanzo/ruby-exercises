@@ -4,3 +4,4 @@ Exercises extracted from the [Ruby Course](https://www.theodinproject.com/paths/
 - [Ceasar Cipher](ceasar_cipher/)
 - [Substrings](substrings/)
 - [Stock Piper](stock_piper/)
+- [Bubble Sort](bubble_sort/)
